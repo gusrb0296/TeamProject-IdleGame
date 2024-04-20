@@ -15,5 +15,5 @@
 
 ## 📌 Develop Link
 
-- [Team Brochure](https://teamsparta.notion.site/9c278f934a6e4a89a3760f864d683992)
+- [Team Brochure][(https://teamsparta.notion.site/9c278f934a6e4a89a3760f864d683992)](https://www.notion.so/b82d4db11d164a4e862ff9be4ad12b7b?pvs=4)
 - [Team Notion](https://www.notion.so/68656b3df2a3484695ce7d5b89b83b9d) 
