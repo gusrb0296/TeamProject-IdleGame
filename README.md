@@ -32,6 +32,6 @@ Firebase, Addressable 다운로드 컨텐츠 및 게임 구현을 개발했습�
 - **Envrionment** : Android
 
 ## 📌 Develop Link
-**아래의 브로셔를 통해 프로젝트를 보신다면 기술 스택과 트러블 슈팅 등, 개발에 관련된 많은 내용들을 보실 수 있습니다!**
+**아래의 브로셔를 통해 기술 스택과 트러블 슈팅 등, 개발에 관련된 많은 내용들을 보실 수 있습니다!**
 - [Team Brochure](https://www.notion.so/b82d4db11d164a4e862ff9be4ad12b7b?pvs=4)
 - [Team Notion](https://www.notion.so/68656b3df2a3484695ce7d5b89b83b9d) 
