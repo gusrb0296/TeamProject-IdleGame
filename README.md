@@ -1,10 +1,11 @@
 ## 🖥️ 용력 사무소
+### 용력 사무소는 안드로이드 방치형 모바일 게임입니다<br>
 <img src="https://github.com/gusrb0296/TeamProject-IdleGame/assets/21351278/e72dc94e-4762-4666-ac62-9cfb7a9083be.png" width = "600" height = "600"/>
 <br>
 <img src="https://github.com/gusrb0296/TeamProject-IdleGame/assets/21351278/4b61cd7a-77ff-4627-8f0a-363b88647812.gif" width = "200" height = "400"/> <img src = "https://github.com/gusrb0296/TeamProject-IdleGame/assets/21351278/173c7f0f-7d73-46be-a1a1-481128ba578b.gif" width = "200" height = "400" /> <img src = "https://github.com/gusrb0296/TeamProject-IdleGame/assets/21351278/6b44056f-a8bc-4dba-ba56-b00c45a60a19.gif" width = "200" height = "400" />
 
 
-**용력 사무소는 안드로이드 방치형 모바일 게임입니다!**
+
 + [YouTube 소개 영상](https://www.youtube.com/watch?v=AbceaCXGerw)
 
 
