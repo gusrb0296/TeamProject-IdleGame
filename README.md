@@ -6,15 +6,15 @@
 
 
 
-+ [YouTube 소개 영상](https://www.youtube.com/watch?v=AbceaCXGerw)
+### 📺 [YouTube 소개 영상](https://www.youtube.com/watch?v=AbceaCXGerw)
 
 
 
-### 게임 소개
+## 게임 소개
 좋은 장비와 스킬을 수집하고, 다양한 동료를 모집하여 <br>
 더 강한 용병단을 꾸려 보다 강한 던전을 정복하며 보아요!<br>
 
-### 개발 목적 
+## 개발 목적 
 현재 시장에 유통되고 있는 방치형 게임을 레퍼런스로 참고하여 <br>
 "상용화된 게임에 들어가 있는 기능들이 어떻게 구현되었을까?"에 대한 고민을 중점으로 하여 <br>
 Firebase, Addressable 다운로드 컨텐츠 및 게임 구현을 개발했습니다.
